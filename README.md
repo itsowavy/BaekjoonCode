@@ -1,2 +1,2 @@
 # BaekjoonCode
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+## 해당 리포지토리는 백준 사이트 (https://www.acmicpc.net/) 의 문제풀이 저장소 입니다.
